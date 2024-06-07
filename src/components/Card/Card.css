@@ -1,0 +1,25 @@
+.card{
+    box-sizing: border-box;
+    margin: 5%;
+}
+
+.in-card{
+    padding: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.in-button{
+    margin-top: -2%;
+}
+
+.chip{
+    width: 20%;
+    margin-top: -2%;
+    margin-right: -3%
+}
+
+.label{
+    font-size: x-large;
+}
